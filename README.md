@@ -1,6 +1,6 @@
 # POEditor
 
-Translated language (Malay) all format file
+Translated language (Malay) all format file for Server Status
 
 https://poeditor.com/projects/export_language?id=155391&id_language=101
 
