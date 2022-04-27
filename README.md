@@ -1,13 +1,14 @@
 # POEditor
 
-Translated language (Malay) all format file for Server Status
+Translated language (Malay) all format file for Server Status.
 
 https://poeditor.com/projects/export_language?id=155391&id_language=101
 
-# Translate your language
+# Translate to your language
+
+(Join Translation of Server status)
 
 https://poeditor.com/join/project/37SpmJtyOm
-(Join Translation of Server status)
 
 # Server Status Official
 
