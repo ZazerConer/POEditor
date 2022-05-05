@@ -1,23 +1,23 @@
 # POEditor
 
-Translated language (Malay) all format file for Server Status.
+**Translated language (Malay) in all format file for Server Status.**
 
-https://poeditor.com/projects/export_language?id=155391&id_language=101
+#### Link here: _https://poeditor.com/projects/export_language?id=155391&id_language=101_
 
-# Translate to your language
+# Translate to your language for Server Status
 
-(Join Translation of Server status)
+**Join Translation of Server status**
 
-https://poeditor.com/join/project/37SpmJtyOm
+#### Go here: _https://poeditor.com/join/project/37SpmJtyOm_
 
 # Server Status Official
 
-Demo: https://demo.status.sajdl.com
+**Demo: _https://demo.status.sajdl.com_**
 
-• Email: sysadmin@example.com
+- _Email:_ sysadmin@example.com
 
-• Password: Ss123456
+- _Password:_ Ss123456
 
 # Project on Github
 
-https://github.com/server-status-project/server-status
+#### https://github.com/server-status-project/server-status
