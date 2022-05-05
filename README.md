@@ -4,20 +4,20 @@
 
 #### Link here: _https://poeditor.com/projects/export_language?id=155391&id_language=101_
 
-# Translate to your language for Server Status
+## Translate to your language for Server Status
 
-**Join Translation of Server status**
+**Join Translation of Server status.**
 
 #### Go here: _https://poeditor.com/join/project/37SpmJtyOm_
 
-# Server Status Official
+## Server Status Official
 
-**Demo: _https://demo.status.sajdl.com_**
+**Demo : _https://demo.status.sajdl.com_**
 
-- _Email:_ sysadmin@example.com
+- _Email :_ sysadmin@example.com
 
-- _Password:_ Ss123456
+- _Password :_ Ss123456
 
-# Project on Github
+## Project on Github
 
 #### https://github.com/server-status-project/server-status
